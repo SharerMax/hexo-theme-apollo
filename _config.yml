@@ -1,8 +1,9 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    #Tags: /tags 
+    Twitter: https://twitter.com/Saeratom
+    GitHub: https://github.com/SharerMax
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -14,8 +15,8 @@ disqus:
 duoshuo:
 
 # Analytics
-# google-analytics:
-# ga: UA-xxxxxxxx-x
+google-analytics:
+ga: UA-122964612-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
